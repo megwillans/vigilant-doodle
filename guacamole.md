@@ -5,4 +5,4 @@
 - coriander
 - ++++chilli
 # Instructions
-start with the chilli please
+- peel the avocados
