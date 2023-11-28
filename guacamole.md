@@ -4,3 +4,4 @@
 - salt
 - coriander
 # Instructions
+- peel the avocados
