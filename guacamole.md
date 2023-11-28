@@ -2,4 +2,5 @@
 - avocado
 - lime
 - salt
+- coriander
 # Instructions
