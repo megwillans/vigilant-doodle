@@ -3,6 +3,6 @@
 - lime
 - salt
 - coriander
-- lots of chilli
+- a little bit of chilli
 # Instructions
 - peel the avocados
