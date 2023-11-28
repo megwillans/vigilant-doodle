@@ -6,3 +6,4 @@
 - ++++chilli
 # Instructions
 - peel the avocados
+- mash them
